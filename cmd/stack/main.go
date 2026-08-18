@@ -1,8 +1,9 @@
 package main
 
 import (
-	"ads_course_go/internal/stack"
 	"fmt"
+
+	"github.com/dev-dmitrii-g/Algorithms-Data-Structures-Tomorrow-School-Club/internal/stack"
 )
 
 // MAIN ENTRY POINT
